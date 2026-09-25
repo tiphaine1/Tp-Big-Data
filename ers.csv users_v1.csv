@@ -1,0 +1,15 @@
+{
+    "AcceptRanges": "bytes",
+    "LastModified": "2026-09-25T11:45:53+00:00",
+    "ContentLength": 7351,
+    "ETag": "\"0b6c516b72311b26836eadde12f4b56e\"",
+    "ChecksumCRC64NVME": "cugWbS0ZxZs=",
+    "VersionId": "null",
+    "ContentEncoding": "aws-chunked",
+    "ContentType": "text/csv",
+    "Metadata": {
+        "rows": "50",
+        "source": "dataset_users.py",
+        "version": "1"
+    }
+}
